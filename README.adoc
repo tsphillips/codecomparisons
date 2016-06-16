@@ -1,0 +1,40 @@
+# README
+Thomas Phillips <tom@tsphillips.net>
+
+:!numbered:
+
+This repository is meant to accompany the https://codecomparisons.blogspot.com/[Code Comparisons] blog.
+
+The repository contains code comparisons across popular programming languages.
+The languages I cover (at this time) include Java, C, Python, C#, R, PHP, JavaScript, and Ruby.
+C++ (C++11, specifically) will make special appearances when standard C is not desirable for the task.
+
+I picked these 8 (and sometimes 9) languages because they were highlighted in http://spectrum.ieee.org/computing/software/the-2015-top-ten-programming-languages[an IEEE Spectrum article], "The 2015 Top Ten Programming Languages."
+As for number ten, MATLAB, I am still on the fence.
+MATLAB is not free to use like the other languages.
+GNU Octave is a free MATLAB clone that is kind of compatible, and kind of not.
+My leaning right now is to exclude MATLAB unless I come across a compelling reason otherwise.
+
+I try to keep the scope of the code comparisons small.
+My intent is not to translate entire programs wholesale, but rather to demonstrate through juxtaposition how specific constructs are done differently in each of the languages.
+That said, if you have a request for a specific code comparison, let me know and I will try to accommodate.
+
+## Supported Languages
+
+- C (and sometimes C++)
+- C#
+- Java
+- JavaScript
+- PHP
+- Python
+- R
+- Ruby
+
+## Directory Structure
+
+|===
+| /fundamentals | Programs that demonstrate the fundamentals of each programming language.
+| /builtins | Programs that demonstrate functionality that is built-in to one or more of the languages.
+| /simple-algorithms | Programs that demonstrate simple algorithms implemented in the different programming languages.
+| /advanced-algorithms | Programs that demonstrate advanced algorithms implemented in the different programming languages.
+|===
