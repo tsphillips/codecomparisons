@@ -3,7 +3,10 @@ Thomas Phillips <tom@tsphillips.net>
 
 :!numbered:
 
-This repository is meant to accompany the https://codecomparisons.blogspot.com/[Code Comparisons] blog.
+This project is no longer maintained.
+See the most excellent Rosetta Code site: https://rosettacode.org/wiki/Rosetta_Code
+
+---
 
 The repository contains code comparisons across popular programming languages.
 The languages I cover (at this time) include Java, C, Python, C#, R, PHP, JavaScript, and Ruby.
